@@ -1,5 +1,5 @@
 Quick install:
-wget https://raw.githubusercontent.com/SteveMac555/rtl8188eu/master/install.sh -v -O install.sh && ./install.sh; rm -rf install.sh
+**wget https://raw.githubusercontent.com/SteveMac555/rtl8188eu/master/install.sh -v -O install.sh && ./install.sh; rm -rf install.sh**
 
 
 IMPORTANT - PLEASE READ:
