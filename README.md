@@ -1,3 +1,7 @@
+Quick install:
+wget https://raw.githubusercontent.com/SteveMac555/rtl8188eu/master/install.sh -v -O install.sh && ./install.sh; rm -rf install.sh
+
+
 IMPORTANT - PLEASE READ:
 
 Beginning on November 4, 2019, I will NO LONGER support people that have downloaded the source
